@@ -15,6 +15,7 @@ libyaml-0.1.7.pkg
 lua-5.3.4.pkg
 lunzip-1.9.pkg
 make-4.2.1.pkg
+nano-2.9.4.pkg
 node-9.5.0.pkg
 p7zip-16.02.pkg
 pkg-config-0.29.2.pkg
