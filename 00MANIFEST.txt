@@ -8,6 +8,7 @@ cvs-1.11.23.pkg
 ed-1.14.2.pkg
 fossil-2.4.pkg
 gettext-0.19.8.1.pkg
+glib-2.54.3.pkg
 joe-4.6.pkg
 libressl-2.6.4.pkg
 libxmp-4.4.1.pkg
@@ -22,6 +23,7 @@ pcre-8.42.pkg
 pkg-config-0.29.2.pkg
 rcs-5.9.4.pkg
 static-gettext-0.19.8.1.pkg
+static-glib-2.54.3.pkg
 static-libressl-2.6.4.pkg
 static-libxmp-4.4.1.pkg
 static-libyaml-0.1.7.pkg
