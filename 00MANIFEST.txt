@@ -9,6 +9,7 @@ ed-1.14.2.pkg
 fossil-2.4.pkg
 gettext-0.19.8.1.pkg
 glib-2.54.3.pkg
+gperftools-2.6.3.pkg
 joe-4.6.pkg
 libffi-3.2.1.pkg
 libressl-2.6.4.pkg
@@ -24,9 +25,11 @@ p7zip-16.02.pkg
 pcre-8.42.pkg
 pixman-0.34.0.pkg
 pkg-config-0.29.2.pkg
+qemu-2.11.1.pkg
 rcs-5.9.4.pkg
 static-gettext-0.19.8.1.pkg
 static-glib-2.54.3.pkg
+static-gperftools-2.6.3.pkg
 static-libffi-3.2.1.pkg
 static-libressl-2.6.4.pkg
 static-libtool-2.4.6.pkg
