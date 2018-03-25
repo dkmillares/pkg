@@ -22,6 +22,7 @@ nano-2.9.4.pkg
 node-9.5.0.pkg
 p7zip-16.02.pkg
 pcre-8.42.pkg
+pixman-0.34.0.pkg
 pkg-config-0.29.2.pkg
 rcs-5.9.4.pkg
 static-gettext-0.19.8.1.pkg
@@ -32,6 +33,7 @@ static-libtool-2.4.6.pkg
 static-libxmp-4.4.1.pkg
 static-libyaml-0.1.7.pkg
 static-pcre-8.42.pkg
+static-pixman-0.34.0.pkg
 tig-2.3.3.pkg
 xmp-4.1.0.pkg
 zsh-5.4.2.pkg
