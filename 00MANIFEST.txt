@@ -12,6 +12,7 @@ glib-2.54.3.pkg
 joe-4.6.pkg
 libffi-3.2.1.pkg
 libressl-2.6.4.pkg
+libtool-2.4.6.pkg
 libxmp-4.4.1.pkg
 libyaml-0.1.7.pkg
 lua-5.3.4.pkg
@@ -27,6 +28,7 @@ static-gettext-0.19.8.1.pkg
 static-glib-2.54.3.pkg
 static-libffi-3.2.1.pkg
 static-libressl-2.6.4.pkg
+static-libtool-2.4.6.pkg
 static-libxmp-4.4.1.pkg
 static-libyaml-0.1.7.pkg
 static-pcre-8.42.pkg
