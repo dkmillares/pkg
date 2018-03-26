@@ -38,5 +38,6 @@ supervisord->supervisor
 svn->subversion
 tcmaloc->gperftools
 tiff->libtiff
+unistring->libunistring
 virtualenv->python-virtualenv
 yaml->libyaml
