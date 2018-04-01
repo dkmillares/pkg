@@ -44,7 +44,9 @@ static-libxmp-4.4.1.pkg
 static-libyaml-0.1.7.pkg
 static-pcre-8.42.pkg
 static-pixman-0.34.0.pkg
+static-xz-5.2.3.pkg
 tig-2.3.3.pkg
 xmp-4.1.0.pkg
+xz-5.2.3.pkg
 zsh-5.4.2.pkg
 zsync-0.6.2.pkg
