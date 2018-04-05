@@ -14,6 +14,7 @@ ctags-5.8.pkg
 cvs-1.11.23.pkg
 ed-1.14.2.pkg
 fossil-2.4.pkg
+gc-7.2j.pkg
 gettext-0.19.8.1.pkg
 glib-2.54.3.pkg
 gmp-6.1.2.pkg
@@ -40,6 +41,7 @@ python-pip-9.0.3.pkg
 qemu-2.11.1.pkg
 rcs-5.9.4.pkg
 redis-4.0.9.pkg
+static-gc-7.2j.pkg
 static-gettext-0.19.8.1.pkg
 static-glib-2.54.3.pkg
 static-gmp-6.1.2.pkg
