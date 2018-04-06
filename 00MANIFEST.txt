@@ -31,6 +31,7 @@ lua-5.3.4.pkg
 lunzip-1.9.pkg
 make-4.2.1.pkg
 nano-2.9.4.pkg
+ne-3.1.1.pkg
 node-9.5.0.pkg
 p7zip-16.02.pkg
 pcre-8.42.pkg
