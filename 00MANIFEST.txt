@@ -30,6 +30,7 @@ libyaml-0.1.7.pkg
 lua-5.3.4.pkg
 lunzip-1.9.pkg
 make-4.2.1.pkg
+mg3a-180101.pkg
 nano-2.9.4.pkg
 ncftp-3.2.6.pkg
 ncurses-6.1.pkg
