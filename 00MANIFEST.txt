@@ -32,6 +32,7 @@ lunzip-1.9.pkg
 make-4.2.1.pkg
 nano-2.9.4.pkg
 ncftp-3.2.6.pkg
+ncurses-6.1.pkg
 ne-3.1.1.pkg
 node-9.5.0.pkg
 p7zip-16.02.pkg
@@ -54,6 +55,7 @@ static-libtool-2.4.6.pkg
 static-libunistring-0.9.9.pkg
 static-libxmp-4.4.1.pkg
 static-libyaml-0.1.7.pkg
+static-ncurses-6.1.pkg
 static-pcre-8.42.pkg
 static-pixman-0.34.0.pkg
 static-xz-5.2.3.pkg
