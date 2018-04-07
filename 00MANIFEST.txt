@@ -21,6 +21,7 @@ gmp-6.1.2.pkg
 gnuchess-6.2.5.pkg
 gnuplot-5.2.2.pkg
 gperftools-2.6.3.pkg
+gtypist-2.9.5.pkg
 joe-4.6.pkg
 libffi-3.2.1.pkg
 libressl-2.6.4.pkg
