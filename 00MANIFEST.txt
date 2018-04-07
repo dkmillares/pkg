@@ -19,6 +19,7 @@ gettext-0.19.8.1.pkg
 glib-2.54.3.pkg
 gmp-6.1.2.pkg
 gnuchess-6.2.5.pkg
+gnuplot-5.2.2.pkg
 gperftools-2.6.3.pkg
 joe-4.6.pkg
 libffi-3.2.1.pkg
