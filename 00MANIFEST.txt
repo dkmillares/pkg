@@ -31,6 +31,7 @@ libxmp-4.4.1.pkg
 libyaml-0.1.7.pkg
 lua-5.3.4.pkg
 lunzip-1.9.pkg
+m4-1.4.18.pkg
 make-4.2.1.pkg
 mg3a-180101.pkg
 nano-2.9.4.pkg
